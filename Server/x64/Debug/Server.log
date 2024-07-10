@@ -1,0 +1,16 @@
+﻿  server.cpp
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(176,26): warning C4047: “函数”:“SIZE_T”与“void *”的间接级别不同
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(176,22): warning C4024: “CreateThread”: 形参和实参 2 的类型不同
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(176,75): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(176,81): warning C4047: “函数”:“DWORD”与“void *”的间接级别不同
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(176,77): warning C4024: “CreateThread”: 形参和实参 5 的类型不同
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(117,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(139,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(160,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(164,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(170,92): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(196,13): warning C4098: “acceptThread”:“void”函数返回值
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(203,13): warning C4098: “acceptThread”:“void”函数返回值
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(206,60): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\大二下学期文件\data communications and networking\project\project0\Server\server.cpp(210,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Server.vcxproj -> C:\大二下学期文件\data communications and networking\project\project0\x64\Debug\Server.exe

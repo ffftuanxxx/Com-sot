@@ -1,0 +1,8 @@
+IP: 127.0.0.1  Port: 51872  Connection Times: 1   chatname: kun   group: 1
+IP: 127.0.0.1  Port: 51878  Connection Times: 1   chatname: jiayu   group: 2
+IP: 127.0.0.1  Port: 52200  Connection Times: 1   chatname: kun   group: 1
+IP: 127.0.0.1  Port: 52303  Connection Times: 1   chatname: kun   group: 1
+IP: 127.0.0.1  Port: 52309  Connection Times: 1   chatname: jiayu   group: 2
+IP: 127.0.0.1  Port: 53841  Connection Times: 1   chatname: kun   group: 1
+IP: 127.0.0.1  Port: 53879  Connection Times: 1   chatname: jiayu   group: 2
+IP: 127.0.0.1  Port: 50427  Connection Times: 1   chatname: unkown   group: 9
