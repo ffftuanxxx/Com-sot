@@ -23,11 +23,9 @@ A C++ based client-server application for group chat communication.
 - C++ compiler
 - Winsock2 library
 
-## Building the Project
-
-[Add instructions on how to compile the project]
-
 ## Usage
+
+- Can use Vscode2019 to run and test the client and server
 
 ### Server
 
